@@ -24,3 +24,7 @@ private final List Loans = new ArrayList();
 list.add(“home loan”);  //valid
 list.add("personal loan"); //valid
 loans = new Vector();  //not valid
+
+
+##享元模式
+
